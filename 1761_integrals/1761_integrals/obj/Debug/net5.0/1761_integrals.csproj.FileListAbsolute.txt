@@ -1,0 +1,16 @@
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\bin\Debug\net5.0\1761_integrals.exe
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\bin\Debug\net5.0\1761_integrals.deps.json
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\bin\Debug\net5.0\1761_integrals.runtimeconfig.json
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\bin\Debug\net5.0\1761_integrals.runtimeconfig.dev.json
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\bin\Debug\net5.0\1761_integrals.dll
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\bin\Debug\net5.0\ref\1761_integrals.dll
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\bin\Debug\net5.0\1761_integrals.pdb
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\1761_integrals.csprojAssemblyReference.cache
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\1761_integrals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\1761_integrals.AssemblyInfoInputs.cache
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\1761_integrals.AssemblyInfo.cs
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\1761_integrals.csproj.CoreCompileInputs.cache
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\1761_integrals.dll
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\ref\1761_integrals.dll
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\1761_integrals.pdb
+C:\Users\deni2\source\repos\1761_integrals\1761_integrals\obj\Debug\net5.0\1761_integrals.genruntimeconfig.cache

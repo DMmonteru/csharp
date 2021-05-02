@@ -1,0 +1,16 @@
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\1761.csprojAssemblyReference.cache
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\1761.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\1761.AssemblyInfoInputs.cache
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\1761.AssemblyInfo.cs
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\1761.csproj.CoreCompileInputs.cache
+C:\Users\deni2\source\repos\1761\1761\bin\Debug\net5.0\1761.exe
+C:\Users\deni2\source\repos\1761\1761\bin\Debug\net5.0\1761.deps.json
+C:\Users\deni2\source\repos\1761\1761\bin\Debug\net5.0\1761.runtimeconfig.json
+C:\Users\deni2\source\repos\1761\1761\bin\Debug\net5.0\1761.runtimeconfig.dev.json
+C:\Users\deni2\source\repos\1761\1761\bin\Debug\net5.0\1761.dll
+C:\Users\deni2\source\repos\1761\1761\bin\Debug\net5.0\ref\1761.dll
+C:\Users\deni2\source\repos\1761\1761\bin\Debug\net5.0\1761.pdb
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\1761.dll
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\ref\1761.dll
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\1761.pdb
+C:\Users\deni2\source\repos\1761\1761\obj\Debug\net5.0\1761.genruntimeconfig.cache
