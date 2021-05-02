@@ -97,7 +97,7 @@ namespace lesson
 			}
 
 			// сортировка массива с суммой мест
-			Sort(sum); // массив сортирован по убыванию
+			Sort(sum); // по убыванию
 			for (int i = 0; i < m; i++)
 			{
 				for (int j = 0; j < m; j++)
