@@ -2,7 +2,7 @@
 
 namespace _1761
 {
-    class Program
+    class Methods
     {
         static void Main(string[] args)
         {
